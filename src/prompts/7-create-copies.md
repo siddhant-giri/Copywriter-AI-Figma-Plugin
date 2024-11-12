@@ -1,0 +1,1 @@
+Now create another action to create copies of the selected frame when i click the generate copy. Get the number of variations from the user input {numVariations}. Place the copies next to each other.
